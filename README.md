@@ -1,4 +1,4 @@
-Chrome User Experience Node JS wapper for google CRUX API
+Chrome User Experience data display
 
 This project aims to create a user-friendly dashboard that visualizes and analyzes Chrome User Experience Report (CrUX) data for multiple URLs.
 
@@ -17,10 +17,7 @@ Installation and Usage:
 
 Technologies Used:
 
-(List the programming languages, libraries, frameworks, and data sources used in the project.)
-Contributing:
-
-(Provide guidelines for contributing code or documentation, if applicable.)
+React, TypeScript, Material UI, Unit test
 
 License:
 
