@@ -13,15 +13,12 @@ Target Audience:
 Developers, data analysts, and website owners who want to track and optimize user experience across their web properties.
 Installation and Usage:
 
-(Provide detailed instructions on how to install and run the application, including any required dependencies or setup steps.)
-
 Technologies Used:
 
 React, TypeScript, Material UI, Unit test
 
 License:
 
-(Specify the license under which the project is released.)
 
 Additional Information:
 
@@ -31,13 +28,6 @@ Usage Examples: (Provide illustrative examples of how to use the dashboard for d
 Known Limitations or Issues: (Acknowledge any current limitations or potential issues that users should be aware of.)
 Future Enhancements:
 
-(List potential features or improvements planned for future iterations of the project.)
-I'm ready to assist with further refinements as you provide more specifics about the project's implementation and features.
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -53,18 +43,13 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+coming soon
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 ### product discussion 
 
 https://excalidraw.com/#room=28d15078be2717729a6e,22g70IjasU8mpjAFUurdeA
